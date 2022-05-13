@@ -1,0 +1,4 @@
+#Fri May 13 14:50:36 CET 2022
+base.0=/home/jvlivs/HackIt/diagnosis/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
